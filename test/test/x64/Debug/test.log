@@ -1,0 +1,71 @@
+﻿  DebitCard.cpp
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(22,3): error C2059: syntax error: 'constant'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.cpp(7,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.cpp(7,1): error C2447: '{': missing function header (old-style formal list?)
+  Info.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Info.cpp': No such file or directory
+  Program.cpp
+C:\Users\iamza\source\Other stuff\test\test\Program.h(8,30): error C2039: 'string': is not a member of 'std'
+C:\Users\iamza\source\Other stuff\test\test\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\Program.h(8,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\iamza\source\Other stuff\test\test\Program.h(8,36): error C2143: syntax error: missing ',' before '&'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,15): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,21): error C2065: 'string': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,28): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,34): error C2065: 'string': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,6): error C2923: 'std::map': 'string' is not a valid template type argument for parameter '_Kty'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3): message : see declaration of 'string'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,6): error C2923: 'std::map': 'string' is not a valid template type argument for parameter '_Ty'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3): message : see declaration of 'string'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,6): error C2976: 'std::map': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(73): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,48): error C2641: cannot deduce template arguments for 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3): error C2783: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(const std::map<_Kty,_Ty,_Pr,_Alloc> &,const _Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::allocator_type &)': could not deduce template argument for '_Kty'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(111): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3): error C2783: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(const std::map<_Kty,_Ty,_Pr,_Alloc> &,const _Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::allocator_type &)': could not deduce template argument for '_Ty'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(111): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,48): error C2780: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(const std::map<_Kty,_Ty,_Pr,_Alloc> &)': expects 1 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(109): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,48): error C2780: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(const _Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::allocator_type &)': expects 1 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(107): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,48): error C2780: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(void)': expects 0 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(105): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(3,48): error C2780: 'std::map<_Kty,_Ty,_Pr,_Alloc> std::map(std::map<_Kty,_Ty,_Pr,_Alloc>)': expects 1 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(73): message : see declaration of 'std::map'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(8,10): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(8,17): error C3646: 'bank_name': unknown override specifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(8,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(9,10): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(9,17): error C3646: 'card_number': unknown override specifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(9,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(12,10): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(12,17): error C3646: 'card_holder': unknown override specifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(12,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(16,20): error C2039: 'string': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(16,14): error C2061: syntax error: identifier 'string'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(18,14): error C2535: 'DebitCard::DebitCard(void)': member function already defined or declared
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(16): message : see declaration of 'DebitCard::DebitCard'
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,22): error C2065: 'bankName': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,47): error C2065: 'cardNumber': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,79): error C2065: 'expirationMonth': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,115): error C2065: 'expirationYear': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,146): error C2065: 'cardHolder': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,165): error C2065: 'CVC': undeclared identifier
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,11): error C2614: 'DebitCard': illegal member initialization: 'bank_name' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,34): error C2614: 'DebitCard': illegal member initialization: 'card_number' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(17,133): error C2614: 'DebitCard': illegal member initialization: 'card_holder' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(18,19): error C2614: 'DebitCard': illegal member initialization: 'bank_name' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(18,34): error C2614: 'DebitCard': illegal member initialization: 'card_number' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(18,92): error C2614: 'DebitCard': illegal member initialization: 'card_holder' is not a base or member
+C:\Users\iamza\source\Other stuff\test\test\DebitCard.h(22,3): error C2059: syntax error: 'constant'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cmath(36,89): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cmath(36,89): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\iamza\source\Other stuff\test\test\Program.cpp(31,15): error C2511: 'void Program::makePayment(const std::string &)': overloaded member function not found in 'Program'
+C:\Users\iamza\source\Other stuff\test\test\Program.h(3): message : see declaration of 'Program'
+  Generating Code...
